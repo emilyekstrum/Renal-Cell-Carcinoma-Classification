@@ -21,7 +21,7 @@ Requirements:
 - keras
 
 ## Usage
-To classify an image, upload the CT scan to the Colab workspace. Locate the'imge_path' declaration and edit this variable to the path of your image. Execute the proceeding 4 code blocks to output the classification. 
+To classify an image, upload the CT scan to your workspace. Locate the'imge_path' declaration and edit this variable to the path of your image. Execute the proceeding 4 code blocks to output the classification. 
 
 <img width="644" alt="Screenshot 2025-05-01 at 2 27 34 PM" src="https://github.com/user-attachments/assets/71303848-6a50-49e6-b0a8-d555906a4e6a" />
 
