@@ -18,6 +18,7 @@ To classify an image, upload the CT scan to the Colab workspace. Locate the'imge
 
 ## Contact
 Authors: Emily Ekstrum, Lauren Ross, & Aerin Dias
+
 Questions: emilyekstrum@creighton.edu
 
 ## Data
