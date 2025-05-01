@@ -4,11 +4,21 @@ Renal cell carcinoma CT scan classifier for cancerous (tumor) or non-cancerous (
 ## Description
 This project is a transfer learning approach that utilizes Keras pre-trained convolutional neural networks (CNNs) to create efficient and accurate classifiers for patient CT scans to diagnose renal cell carcinoma (kidney cancer). The use of pre-trained CNNs allows minimal training resources to generate highly accurate and robust classification systems for images such as medical CT scans. Employing such models with the addition of fine-tuning layers, we propose three renal cell carcinoma CNN classifiers that have been trained for CT scan input. 
 
+Models:
+- VGG16
+- ResNet152
+- MobileNetV2
+
 The training data set is sourced from a multi-cancer Kaggle dataset uploaded by user obulisainaren. The subset of data selected was 10,000 CT scan images of kidneys with cancerous and non-cancerous labels. 
 
 ## Installation
-Download any of the .ipynb files and upload to Colab. 
+Download any of the .py files
 These files include fetching the data, initializing the model, training, and validation. 
+Requirements:
+- tensorflow
+- numpy
+- pandas
+- keras
 
 ## Usage
 To classify an image, upload the CT scan to the Colab workspace. Locate the'imge_path' declaration and edit this variable to the path of your image. Execute the proceeding 4 code blocks to output the classification. 
