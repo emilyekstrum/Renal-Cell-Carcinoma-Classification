@@ -17,7 +17,8 @@ The training data set is sourced from a multi-cancer Kaggle dataset uploaded by 
 
 
 ## Installation
-Download any of the .py files
+Download any of the .py files for each pre-trained model.
+
 These files include fetching the data, initializing the model, training, and validation. 
 Requirements:
 - tensorflow
