@@ -11,6 +11,11 @@ Models:
 
 The training data set is sourced from a multi-cancer Kaggle dataset uploaded by user obulisainaren. The subset of data selected was 10,000 CT scan images of kidneys with cancerous and non-cancerous labels. 
 
+## Model Architecture
+<img width="1145" alt="Screenshot 2025-05-01 at 2 35 08 PM" src="https://github.com/user-attachments/assets/cf55cb06-949a-425b-97ba-3910f0234de3" />
+
+
+
 ## Installation
 Download any of the .py files
 These files include fetching the data, initializing the model, training, and validation. 
